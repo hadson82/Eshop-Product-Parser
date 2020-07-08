@@ -1,0 +1,27 @@
+<prestashop>
+    <product>
+        <id_category_default></id_category_default>
+        <reference></reference>
+        <price></price>
+        <active></active>
+        <available_for_order></available_for_order>
+        <meta_description>
+            <language id="1"></language>
+        </meta_description>
+        <link_rewrite>
+            <language id="1"></language>
+        </link_rewrite>
+        <meta_title>
+            <language id="1"></language>
+        </meta_title>
+        <name>
+            <language id="1"></language>
+        </name>
+        <description>
+            <language id="1"></language>
+        </description>
+         <description_short>
+            <language id="1"></language>
+        </description_short>
+    </product>
+</prestashop>
